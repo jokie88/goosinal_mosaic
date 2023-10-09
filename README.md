@@ -4,7 +4,8 @@ Mosaic of Ringers 879 (The Goose) created using the Goosinals collection
 ## To find your inscripiton in the picture:
 1. click on the file mapped_output.txt.
 2. Do a search to find your inscription id in the file.
-3. Look at the line number for your inscription id. thats the position of your goosinal in the mosaic. its numbered 1-100 for the first row, 101-200 for the second and so on.   
+3. Look at the line number for your inscription id. thats the position of your goosinal in the mosaic. its numbered 1-100 for the first row, 101-200 for the second and so on.
+4. locate your goose in the goosinal_mosaic png (10px or 100px version) 
 
 
 ## Steps to Reproduce the Mosaic:
